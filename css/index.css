@@ -16,7 +16,7 @@ div#wrap {
 div#title {
     width: 800px;
     padding: 30px 0px;
-    font-size: 60px;
+    font-size: 40px;
     text-align: center;
 }
 
@@ -41,7 +41,7 @@ img.ss_icon {
     width: 150px;
     border-radius: 50%;
     overflow: hidden;
-    background-color: #e2f0d6;
+    background-color: #ed1a41;
     opacity: 0.6;
 }
 
@@ -53,7 +53,7 @@ h1 {
     font-family: Baskerville, Palatino, 'Palatino Linotype', Georgia, serif;
     font-size: 24px;
     font-weight: bold;
-	color: #bdd684;
+	color: #291359;
     padding: 0px;
 	margin: 10px 0px;
 }
