@@ -4,7 +4,7 @@ body {
 	margin: 0px;
     padding: 0px;
     color: #e2f0d6;
-    background-color: #10222b;
+    background-color: #FBEAEB;
 }
 
 div#wrap {
@@ -16,7 +16,7 @@ div#wrap {
 div#title {
     width: 800px;
     padding: 30px 0px;
-    font-size: 20px;
+    font-size: 60px;
     text-align: center;
 }
 
